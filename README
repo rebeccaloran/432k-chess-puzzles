@@ -6,7 +6,6 @@ Please show them your thanks and support.
 
 Notes on Fairy pieces:
 
-
 There are puzzles in this set that include fairy pieces:
 
 https://en.wikipedia.org/wiki/Fairy_chess_piece#Notable_examples
@@ -14,6 +13,15 @@ https://en.wikipedia.org/wiki/Fairy_chess_piece#Notable_examples
 
 Due to the large nature of this collection, I can't catalogue every
 single case. Please use the wiki entry for further assistance.
+
+
+FOR WINDOWS USERS:
+I am working on making a batch script version, but for now, Windows
+users can either enable bash in the PowerShell or install Cygwin.
+
+https://cygwin.com/install.html
+
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 
 Tips for using this collection:
