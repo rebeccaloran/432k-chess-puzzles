@@ -1,2 +1,2 @@
 #!/bin/bash
-shuf -n 100 432k-chess-puzzles-sorted.txt > chess-to-solve.tmp.txt
+shuf -n 100 432k-chess-puzzles-sorted.txt > 100-chess-to-solve.txt
