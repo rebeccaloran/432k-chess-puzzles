@@ -1,0 +1,49 @@
+432,000+ Chess puzzles one per line in FEN format.
+
+This would not be possible without  http://www.yacpdb.org/
+
+Please show them your thanks and support.
+
+Notes on Fairy pieces:
+
+
+There are puzzles in this set that include fairy pieces:
+
+https://en.wikipedia.org/wiki/Fairy_chess_piece#Notable_examples
+
+
+Due to the large nature of this collection, I can't catalogue every
+single case. Please use the wiki entry for further assistance.
+
+
+Tips for using this collection:
+
+Run the script to make a text file with 100 random puzzles.
+
+Open that text file in vim(or print it out) and work your way through
+the list.
+
+Make sure set up on a physical board but you can use chess
+software. You will need chess software and an engine like stockfish
+to verify the correct answers anyway, but simply working out the
+solution for yourself, ideally without moving the pieces, simply using
+your mind's eye, will prove to enhance your chess tactics greatly.
+
+If you have a tough problem, it's okay to move around the pieces.
+
+The FEN included in this collection unfortunately don't indicate which
+side is to move first. This is a chance to exervice the ability to
+look at both sides. I believe most of these begin with white to move,
+but there are most likely many with black to move. A strong chess
+player can look at the position from both sides to make the first move.
+
+After you have completely worked out a puzzle, verify it by loading the
+position into a chess engine and run it for at least 30 seconds for
+white to move then do the same for black to move. Many of these
+puzzles have multiple solutions so don't beat yourself up if yours
+doesn't match.
+
+Fairy puzzle solutions are probably difficult to verify with any
+engine. Good luck with those.
+
+Above all, have fun!
